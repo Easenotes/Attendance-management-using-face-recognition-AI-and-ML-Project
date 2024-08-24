@@ -2,7 +2,7 @@
 An attendance management system using face recognition and machine learning is a system that helps many schools and colleges to mark students' attendance effortlessly and without missing any students
 Attendance management using face recognition, AI, and ML
 
-See More Details [link](doc:https://www.easenotes.com/software-projects/attendance-management-using-face-recognition-ai-and-ml-project#)
+See More Details [link](https://www.easenotes.com/software-projects/attendance-management-using-face-recognition-ai-and-ml-project#)
 
 # Introduction 
 
