@@ -7,12 +7,13 @@ See More Details [link](https://www.easenotes.com/software-projects/attendance-m
 # Introduction 
 
 The attendance management system is a **final year project for computer science students** who are pursuing final year, Attendance management system using Machine learning is a project that helps to take attendance by using face recognition using image processing algorithms in the project where the project user will enter the details of the students and once all students face images are trained then the machine will recognize the students face and mark the attendance in the XL sheets in there local system, and also user can manually enter attendance if something wrong on image identification in the projects, wherein the project mainly 4 major  interaction we will do like 
-Enter the student details like name and enrollment details 
-Capture the student's face after entering the details using an image processing algorithm and face recognition algorithm it will store at least 20 sets of pictures at the time of capture 
-Train the captured face to the machine once the image capture
-Then we can mark the attendance using a camera and face recognition algorithm 
-Once the face is captured then it will mark attendance and store it in the DB and XL file 
-After marking an attendance we can see all details in the local project folder and 
+
+Step1: Enter the student details like name and enrollment details 
+Step2: Capture the student's face after entering the details using an image processing algorithm and face recognition algorithm it will store at least 20 sets of pictures at the time of capture 
+Step3: Train the captured face to the machine once the image capture
+Step4: Then we can mark the attendance using a camera and face recognition algorithm 
+Step5: Once the face is captured then it will mark attendance and store it in the DB and XL file 
+Step6: After marking an attendance we can see all details in the local project folder and 
 
 # Algorithms used in the face recognition attendance management system using Machine learning 
 
